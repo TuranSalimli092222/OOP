@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B13428E-1540-4BC0-A944-44361882287B}|OopTask1\\OopTask1.csproj|c:\\users\\turan salimli\\desktop\\ooptask\\ooptask1\\ooptask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B13428E-1540-4BC0-A944-44361882287B}|OopTask1\\OopTask1.csproj|solutionrelative:ooptask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B13428E-1540-4BC0-A944-44361882287B}|OopTask1\\OopTask1.csproj|c:\\users\\turan salimli\\desktop\\ooptask\\ooptask1\\ooptask1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B13428E-1540-4BC0-A944-44361882287B}|OopTask1\\OopTask1.csproj|solutionrelative:ooptask1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B13428E-1540-4BC0-A944-44361882287B}|OopTask1\\OopTask1.csproj|c:\\users\\turan salimli\\desktop\\ooptask\\ooptask1\\ooptask1\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B13428E-1540-4BC0-A944-44361882287B}|OopTask1\\OopTask1.csproj|solutionrelative:ooptask1\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B13428E-1540-4BC0-A944-44361882287B}|OopTask1\\OopTask1.csproj|c:\\users\\turan salimli\\desktop\\ooptask\\ooptask1\\ooptask1\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B13428E-1540-4BC0-A944-44361882287B}|OopTask1\\OopTask1.csproj|solutionrelative:ooptask1\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B13428E-1540-4BC0-A944-44361882287B}|OopTask1\\OopTask1.csproj|c:\\users\\turan salimli\\desktop\\ooptask\\ooptask1\\ooptask1\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B13428E-1540-4BC0-A944-44361882287B}|OopTask1\\OopTask1.csproj|solutionrelative:ooptask1\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\Dog.cs",
+              "RelativeDocumentMoniker": "OopTask1\\Dog.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\Dog.cs",
+              "RelativeToolTip": "OopTask1\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:12:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\Bird.cs",
+              "RelativeDocumentMoniker": "OopTask1\\Bird.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\Bird.cs",
+              "RelativeToolTip": "OopTask1\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:13:26.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\Bear.cs",
+              "RelativeDocumentMoniker": "OopTask1\\Bear.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\Bear.cs",
+              "RelativeToolTip": "OopTask1\\Bear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:13:01.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\Animals.cs",
+              "RelativeDocumentMoniker": "OopTask1\\Animals.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\Animals.cs",
+              "RelativeToolTip": "OopTask1\\Animals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T19:11:53.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\Program.cs",
+              "RelativeDocumentMoniker": "OopTask1\\Program.cs",
+              "ToolTip": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\Program.cs",
+              "RelativeToolTip": "OopTask1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:43:46.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\bin\Debug\net8.0\OopTask1.exe
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\bin\Debug\net8.0\OopTask1.deps.json
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\bin\Debug\net8.0\OopTask1.runtimeconfig.json
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\bin\Debug\net8.0\OopTask1.dll
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\bin\Debug\net8.0\OopTask1.pdb
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\obj\Debug\net8.0\OopTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\obj\Debug\net8.0\OopTask1.AssemblyInfoInputs.cache
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\obj\Debug\net8.0\OopTask1.AssemblyInfo.cs
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\obj\Debug\net8.0\OopTask1.csproj.CoreCompileInputs.cache
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\obj\Debug\net8.0\OopTask1.dll
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\obj\Debug\net8.0\refint\OopTask1.dll
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\obj\Debug\net8.0\OopTask1.pdb
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\obj\Debug\net8.0\OopTask1.genruntimeconfig.cache
+C:\Users\Turan Salimli\Desktop\OOPTask\OopTask1\OopTask1\obj\Debug\net8.0\ref\OopTask1.dll
