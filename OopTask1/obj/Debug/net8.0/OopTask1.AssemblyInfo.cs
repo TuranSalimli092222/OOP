@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OopTask1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa6d6f3c8b1f83d2713519e10c45416fb41bc3c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("OopTask1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OopTask1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\OopTask1.csproj",
+      "projectUniqueName": "C:\\Users\\Turan Salimli\\Desktop\\OopTask1\\OopTask1\\OopTask1.csproj",
       "projectName": "OopTask1",
-      "projectPath": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\OopTask1.csproj",
+      "projectPath": "C:\\Users\\Turan Salimli\\Desktop\\OopTask1\\OopTask1\\OopTask1.csproj",
       "packagesPath": "C:\\Users\\Turan Salimli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Turan Salimli\\Desktop\\OOPTask\\OopTask1\\OopTask1\\obj\\",
+      "outputPath": "C:\\Users\\Turan Salimli\\Desktop\\OopTask1\\OopTask1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Turan Salimli\\AppData\\Roaming\\NuGet\\NuGet.Config",

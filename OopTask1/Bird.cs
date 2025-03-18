@@ -5,10 +5,10 @@
     {
         CanSwim = canSwim;
     }
-    public void Fly()
+    public string Fly()
     {
         base.Eat();
-        Console.WriteLine("Fly");
+        return "fly";
     }
 }
 

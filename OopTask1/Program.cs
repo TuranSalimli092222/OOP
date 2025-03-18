@@ -8,7 +8,7 @@ Dog alabash = new Dog("Alabash",6,true);
 
 Console.WriteLine($"Itin adi:{alabash.Name},Itin yashi {alabash.Age}, quyruguda {alabash.HasTail}");
 
-alabash.Bark();
+Console.WriteLine(alabash.Bark());
 
 Bear ayi = new Bear("Turo",20,true);
 
@@ -20,4 +20,4 @@ Bird kanarya = new Bird("fener",5,false);
 
 Console.WriteLine($"Qushun adi:{kanarya.Name},Qushun yashi {kanarya.Age}, uze bilirmi?? {kanarya.CanSwim}");
 
-kanarya.Fly();
+Console.WriteLine( kanarya.Fly());

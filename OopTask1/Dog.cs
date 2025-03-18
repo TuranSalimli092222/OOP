@@ -5,11 +5,11 @@
     {
         HasTail = hasTail;
     }
-    public void Bark()
+    public string Bark()
     {
         base.Eat();
 
-        Console.WriteLine("Dogs are barking");
+      return "Dogs are barking";
     }
         
     }
